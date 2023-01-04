@@ -1,5 +1,5 @@
 These are some of the programs/tools I've created while I was was working with Khatib & Alami.
-These tools were created and customized to facilitate working on the projects I was working on.
+These tools were created and customized to facilitate working on the projects my team was working on.
 
 # WP v1.0. Easily draw and design utilities profilies for pressurized lines. A user manual is provided
 # HLC is a Hydraulic Losses Calculator that allows you to calculate all losses instantly from AutoCAD 
